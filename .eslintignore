@@ -1,0 +1,8 @@
+**/*.min.js
+**/dist/
+**/vendor/
+/_gh_pages/
+/package.js
+**/vscode//defaultsettings/2/settings.json
+**/vscode//defaultsettings/3/settings.json
+**/.vscode
